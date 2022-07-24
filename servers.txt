@@ -3165,7 +3165,6 @@
 127.0.0.1 t.armchairbookie.com
 127.0.0.1 t.bawafx.com
 127.0.0.1 t.carta.com
-# 127.0.0.1 t.co
 127.0.0.1 t.eloqua.com
 127.0.0.1 t.email.superdrug.com
 127.0.0.1 t.en25.com
